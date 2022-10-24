@@ -19,6 +19,10 @@ div{
 .skill-row{
   text-align: center;
 }
+.my_picture{
+  height: 400px;
+  width: 400px;
+}
 .top-cloud{
   position: absolute;
   right: 180px;
